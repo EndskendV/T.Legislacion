@@ -1,5 +1,5 @@
 |   | Diferencias | Ejemplo | Sanción |
-| | | | |
+|--- | ---|--- |--- |
 |Normas jurídicas| 
 Heterónomas: impuestas por otras personas ajenas al individuo que se debe someter a ellas.
 Bilaterales: existen dos partes, la parte que debe cumplir las normas y, por otro lado, la parte encargada de exigir su cumplimiento.
