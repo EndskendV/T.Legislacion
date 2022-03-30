@@ -1,6 +1,8 @@
-------
-<div style="text-align:center"><img src ="./MISC/LOGO.png" /></div>
+ # <p align="center"> T.Legislacion
 
-### TEST DE IMAGENES LOCALES*
+<p align="center"> <img src ="./MISC/LOGO.png" /></p>
 
-# T.Legislacion
+
+## <p align="center"> Un Poco de HTML :D</p>
+## <p align="right"> RIGHT</p>
+      ## <p align="right"> RIGHT</p>
