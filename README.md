@@ -1,4 +1,5 @@
-!['Logo_Tecnologico'](./MISC/LOGO.png)
+------
+<div style="text-align:center"><img src ="./MISC/LOGO.png" /></div>
 
 ### TEST DE IMAGENES LOCALES*
 
