@@ -1,4 +1,4 @@
-!['Logo_Tecnologico'](./LOGO.png)
+!['Logo_Tecnologico'](./MISC/LOGO.png)
 
 ### TEST DE IMAGENES LOCALES*
 
