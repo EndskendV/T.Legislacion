@@ -22,6 +22,32 @@
 </tr>
  <tr>
 <td>Informática jurídica complementaria </td>
+  <td>Es la aplicación de la
+informática en tareas de
+abogados, jueces, peritos,
+etc. a través del uso de
+computadoras y programas
+para realizar las tareas de
+procesamiento de textos,
+almacenamiento de datos,
+para efectuar las
+comunicaciones mediante
+redes.  </td>
+<td> ● Permite la entrada de
+documentos como
+leyes, jurisprudencias,
+doctrinas, entre otros. <br>
+● Permite la búsqueda de
+documentos con mayor
+facilidad. </td> 
+<td>IDG (del Instituto para la
+Documentación Jurídica
+de Florencia, Italia) <br><br>
+Celex (de la Comunidad
+Europea con sede en
+Bruselas)<br><br>
+Prodasen (de la Cámara de
+Senadores, Brasil) </td>
   </tr>
  <tr>
 <td> Informática jurídica de control y gestión </td>
