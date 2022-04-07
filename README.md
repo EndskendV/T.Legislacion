@@ -6,6 +6,7 @@
  <h3 align="center">Taller de Legislación Informática</h3>
  <h3 align="center">Actividad: GitHub</h3>
  <h3 align="center">Alumno(s):</h3>
+ <h3 align="center"> Castelan Delgado Lakshme Radharane 20212108
  <h3 align="center">García Salgado Moncayo Nashelly 19211149</h3>
  <h3 align="center"> Romero Diaz Misael 20212748
  <h3 align="center">Profesor@:</h3>
