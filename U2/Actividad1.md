@@ -46,3 +46,10 @@ Prodasen (de la Cámara de Senadores, Brasil) </td>
   </tr>
  </table>
 
+# Referencias Bibliográficas
+
+#### de Admin, V. T. L. E. (2016, 13 diciembre). INFORMÁTICA JURÍDICA DOCUMENTARIA. Interpolados. Recuperado 5 de abril de 2022, de https://interpolados.wordpress.com/2016/02/12/informatica-juridica-documentaria/
+#### @SoyIvanRamirez. (2019, 13 septiembre). Informática jurídica. efectodigital. Recuperado 6 de abril de 2022, de https://www.efectodigital.online/single-post/inform%C3%A1tica-jur%C3%ADdica
+#### Galindo, A. (s. f.). Informatica Juridica Metadocumental: SISTEMAS LEGALES EXPERT. Prezi.Com. Recuperado 6 de abril de 2022, de https://prezi.com/zawthbsbfqko/informatica-juridica-metadocumental-sistemas-legales-expert/
+#### Sanchez, A. (s. f.). Informatica Juridica de control y Gestion. Prezi.Com. Recuperado 6 de abril de 2022, de https://prezi.com/y5h9wqnpdwul/informatica-juridica-de-control-y-gestion/
+#### A. (s. f.). características de la informática Juridica. características de la informática Juridica. Recuperado 5 de abril de 2022, de https://es.slideshare.net/ANALAMAS86/caracteristicas-de-la-informatica-juridica-48573949
