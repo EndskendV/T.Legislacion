@@ -27,19 +27,25 @@
     <td align="justify">La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.</td>
    <td align="justify">La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado. Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El Estado garantizará el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
 </td>
-    <td 'el ahora'></td>
+  
     </tr><tr>
     <td align="center">7</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+    <td align="justify">Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación.</td>
+    <td align="justify">Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. No se puede restringir este derecho por vías o medios indirectos, tales como el abuso de controles oficiales o particulares, de papel para periódicos, de frecuencias radioeléctricas o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios y tecnologías de la información y comunicación encaminados a impedir la transmisión y circulación de ideas y opiniones. Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el primer párrafo del artículo 6o. de esta Constitución. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
+</td>
     </tr><tr>
     <td align="center">8</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+    <td align="justify">SIN REFORMA.</td>
+    <td align="justify">Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos de la República. <br> A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario. 
+
+</td>
     </tr><tr>
     <td align="center">13</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+   <td align="justify">SIN REFORMA.</td>
+    <td align="justify">1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.<br>
+2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
+
+</td>
     </tr><tr>
     <td align="center">16</td>
     <td align="justify">Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de autoridad competente, que funde y motive la causa legal de procedimiento. <br><br>
@@ -52,8 +58,11 @@ Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesione
 
 </td>
     </tr><tr><td align="center">19</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+    <td align="justify">Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión en el que se expresarán : el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución así como los datos que arroje la averiguación previa, los que deberán ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del indiciado. Este plazo podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de formal prisión o de la solicitud de prórroga, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
+</td>
+    <td align="justify">El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
+</td>
     </tr><tr>
     <td align="center">30</td>
      <td align="justify">La nacionalidad mexicana se adquiere por nacimiento o por naturalización. <br>
