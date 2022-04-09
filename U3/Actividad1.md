@@ -20,11 +20,11 @@
       <th>Ahora</th>
     </tr><tr>
     <td align="center">3</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+    <td align="justify">Todo individuo tiene derecho a recibir educación. El Estado (Federación, Estados, Distrito Federal y Municipios), impartirá educación preescolar, primaria, secundaria y media superior La educación preescolar primaria y secundaria conforman la educación básica.</td>
+    <td align="justify">Todo individuo tiene derecho a recibir educación, El Estado (Federación, Estados, Distrito Federal y Municipios), impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.</td>
     </tr><tr>
     <td align="center">6</td>
-    <td 'Pon el antes'></td>
+    <td align="justify"></td>
     <td 'el ahora'></td>
     </tr><tr>
     <td align="center">7</td>
