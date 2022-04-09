@@ -26,8 +26,7 @@
     <td align="center">6</td>
     <td align="justify">La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.</td>
    <td align="justify">La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado. Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El Estado garantizará el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
-</td>
-  
+</td>  
     </tr><tr>
     <td align="center">7</td>
     <td align="justify">Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación.</td>
@@ -37,7 +36,6 @@
     <td align="center">8</td>
     <td align="justify">SIN REFORMA.</td>
     <td align="justify">Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos de la República. <br> A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario. 
-
 </td>
     </tr><tr>
     <td align="center">13</td>
@@ -87,8 +85,11 @@ B) Son mexicanos por naturalización.</td>
     </tr><tr>
     <td align="center">124</td>
    <td align="justify">SIN REFORMA.</td>
-   <td align="justify">Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias
-.</td>
+   <td align="justify">Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
+</td>
     </tr></table>
-    
+   
+### Azamar, M. R. A. (2016, 9 noviembre). Articulo 3 cuadro comparativo (2). SlideShare. https://es.slideshare.net/miriamralvareza/articulo-3-cuadro-comparativo-2
+### Gobierno Federal. (2008). Reforma COnstitucional de Seguridad y Justicia (N.o 08–11452). http://biblioteca.diputados.gob.mx/janium/bv/hcd/lx/refcons_segjus_gc.pdf
+### Camara de Diputados. (2021, 28 mayo). Reformas Constitucionales por Artículo. https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_art.htm
         
