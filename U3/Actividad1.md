@@ -56,16 +56,30 @@ Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesione
     <td 'el ahora'></td>
     </tr><tr>
     <td align="center">30</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+     <td align="justify">La nacionalidad mexicana se adquiere por nacimiento o por naturalización. <br>
+A) Son mexicanos por nacimiento:<br>
+I. Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.<br>
+II. Los que nazcan en el extranjero de padres mexicanos; de padre mexicano y madre extranjera, o de madre mexicana y padre desconocido.<br>
+III. Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.<br>
+B) Son mexicanos por naturalización:<br>
+I. Los extranjeros que obtengan de la Secretaría de Relaciones  carta de naturalización.<br>
+II. La mujer extranjera que contraiga matrimonio y tenga o establezca su domicilio dentro del territorio nacional.
+</td>
+     <td align="justify">La nacionalidad mexicana se adquiere por nacimiento o por naturalización. <br>
+A) Son mexicanos por nacimiento:<br>
+I. Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.<br>
+II. Los que nazcan en el extranjero de padres mexicanos; de padre mexicano y madre extranjera, o de madre mexicana y padre desconocido.<br>
+III. Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.<br>
+B) Son mexicanos por naturalización.</td>
     </tr><tr>
     <td align="center">66</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+    <td align="justify">Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 15 de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83, en cuyo caso las sesiones podrán extenderse hasta el 31 de diciembre de ese mismo año. El segundo período no podrá prolongarse más allá del 30 de abril del mismo año.</td>
+     <td align="justify">Cada periodo de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer periodo no podrá prolongarse sino hasta el 15 de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83, en cuyo caso las sesiones podrán extenderse hasta el 31 de diciembre de ese mismo año. El segundo periodo no podrá prolongarse más allá del 30 de abril del mismo año. Si las dos cámaras no estuvieren de acuerdo para poner término a las sesiones antes de las fechas indicadas, los trabajos deberán concluirse precisamente en las mismas.</td>
     </tr><tr>
     <td align="center">124</td>
-    <td 'Pon el antes'></td>
-    <td 'el ahora'></td>
+   <td align="justify">SIN REFORMA.</td>
+   <td align="justify">Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias
+.</td>
     </tr></table>
     
         
