@@ -17,7 +17,7 @@
     <tr>
       <th>Articulo</th>
       <th>Antes</th>
-      <th>Ahora</th>
+      <th>Texto Vigente</th>
     </tr><tr>
     <td align="center">3</td>
     <td align="justify">Todo individuo tiene derecho a recibir educación. El Estado (Federación, Estados, Distrito Federal y Municipios), impartirá educación preescolar, primaria, secundaria y media superior La educación preescolar primaria y secundaria conforman la educación básica.</td>
