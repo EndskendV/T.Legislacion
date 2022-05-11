@@ -15,11 +15,11 @@
   <table>
     <tr>
       <th>País (% Pirateria)</th>
-      <th colspan="3">Norma o Ley</th>
+      <th colspan="9">Norma o Ley</th>
       <th>Notas periodísticas</th>
     </tr><tr>
     <td align="center">China (94%)</td>
-    <td colspan="3" align="justify"><p align="center"><b>1. Ley de ciberseguridad en China</p></b> 
+    <td colspan="9" align="justify"><p align="center"><b>1. Ley de ciberseguridad en China</p></b> 
 
 El 1 de junio de 2017 entró en vigor la Ley de Ciberseguridad de China.
 
@@ -96,7 +96,7 @@ Derechos de autor - en china el software tiene que ser protegido por copyright e
    </td>
     </tr><tr>
     <td align="center">México (75.1%)</td>
-    <td colspan="3" align="justify"><p align="center"><b> Normatividad de la Ley de patentes y marcas: una perspectiva mexicana.</p></b>
+    <td colspan="9" align="justify"><p align="center"><b> Normatividad de la Ley de patentes y marcas: una perspectiva mexicana.</p></b>
 
 La teoría muestra que los beneficios económicos derivados de la explotación de la patente y de las invenciones resultantes para su difusión y utilización públicas o privadas deben ser con beneficios a la sociedad lo que permitirá elevar el nivel técnico de un país.
 
@@ -156,7 +156,7 @@ https://sg.com.mx/revista/17/patentes-software-conociendo-la-legislacion
 </td>  
     </tr><tr>
     <td align="center">India (91%)</td>
-    <td colspan="3" align="justify">Las leyes cibernéticas en India han allanado el camino para el comercio electrónico y la gobernanza electrónica en el país al garantizar la máxima conectividad y los mínimos riesgos de ciberseguridad. Además, para mejorar el alcance y expandir el uso de medios digitales.
+    <td colspan="9" align="justify">Las leyes cibernéticas en India han allanado el camino para el comercio electrónico y la gobernanza electrónica en el país al garantizar la máxima conectividad y los mínimos riesgos de ciberseguridad. Además, para mejorar el alcance y expandir el uso de medios digitales.
 
 En la sección 63B de los derechos de autor en india, esta habla sobre el uso de copias ilegales de programas de equipo de cómputo como delito: Cualquier persona que se sorprenda utilizando copias ilegales será sancionada con una sentencia en prisión de mínimo 7 días, pudiendo extenderse hasta 3 años al igual de una multa no inferior a 50,000 Rupias pero puede extenderse hasta 200,000; 
 Siempre que el programa no se haya usado con fines lucrativos o negocios.
@@ -166,7 +166,7 @@ Siempre que el programa no se haya usado con fines lucrativos o negocios.
 </td>
     </tr><tr>
     <td align="center">Alemania (20%)</td>
-    <td colspan="3" align="justify"><p align="center"><b> Ley Federal de Protección de Datos:</p></b>
+    <td colspan="9" align="justify"><p align="center"><b> Ley Federal de Protección de Datos:</p></b>
 Aprobada el 30 de junio de 2017, vigente desde el 25 de mayo de 2018, y modificada por última vez por la Ley para adaptar la Ley de Protección de Datos al Reglamento (UE) 2016/679 (RGPD).
 
 El Parlamento alemán aprobó una segunda Ley de Adaptación e Implementación que actualiza una variedad de disposiciones de protección de datos en la legislación específica del sector a la terminología y los principios del RGPD y cambiará algunas disposiciones de la Ley Federal de Protección de Datos.
@@ -201,7 +201,7 @@ https://www.google.com/amp/s/ciberseguridad.com/normativa/europea/alemania/amp/
 </td>
     </tr><tr>
     <td align="center">Rusia (Software Pirata 95%)</td>
-   <td colspan="3" align="justify">La Federación Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el uso de patentes de los estados incluidos en su lista de "países hostiles". En la práctica, esto quiere decir que los ciudadanos y empresas rusas podrán explotar patentes que no sean suyas sin riesgo de ser sancionados, según han explicado al ARA fuentes del sector. El decreto del gobierno de Vladímir Putin no elimina el reconocimiento de las patentes, sino que establece que la compensación a su propietario será cero. <br></br>
+   <td colspan="9" align="justify">La Federación Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el uso de patentes de los estados incluidos en su lista de "países hostiles". En la práctica, esto quiere decir que los ciudadanos y empresas rusas podrán explotar patentes que no sean suyas sin riesgo de ser sancionados, según han explicado al ARA fuentes del sector. El decreto del gobierno de Vladímir Putin no elimina el reconocimiento de las patentes, sino que establece que la compensación a su propietario será cero. <br></br>
 
  <b>Lista de países hostiles de Rusia:</b>
 - Unión Europea
@@ -218,9 +218,6 @@ https://pressover.news/noticias/loop-hero-pirateando-para-rusia/
 
   
 </td>  </tr>
-<tr>
- <td></td>
- <td></td>
-  <td></td>
-</tr>
+<tr><td>1<td>
+ <td> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<td>
     </table>
