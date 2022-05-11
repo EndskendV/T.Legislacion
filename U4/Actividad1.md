@@ -177,7 +177,7 @@ El Parlamento alemán aprobó una segunda Ley de Adaptación e Implementación q
 
   <b>El Patentgesetz (derecho de patentes)</b>, en derecho alemán , garantiza, junto con el derecho de marcas , la propiedad sobre el carácter intangible y el diseño de productos innovadores.
 
-  <b>Entorno legal en el país:</b><br>
+  <b>Entorno legal en el país:</b><br></br>
 Tratado de Cooperación en materia de patentes (PCT): Período inicial de validez de 3 años.
 Tratado sobre el Derecho de Marcas y Protocolo concerniente al Arreglo de Madrid relativo al Registro Internacional de Marcas: Periodo inicial de validez de 10 años.
 Convenio de Berna para la protección de las Obras Literarias y Artísticas: 70 años tras la muerte del autor.
