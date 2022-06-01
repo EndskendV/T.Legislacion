@@ -12,7 +12,7 @@
  <h3 align="center">Profesor@:</h3>
  <h3 align="center">Daniela Adriana Sanchez Vizcarra</h3>
  <h3 align="center">Fecha de entrega:</h3>
- <h3 align="center">31/05/2022</h3>
+ <h3 align="center">27/05/2022</h3>
 
 
 <table>
